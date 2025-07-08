@@ -57,7 +57,7 @@ Utilize Agentic Voice in the tech industry for technical support and troubleshoo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ruvnet/agentic-voice.git
+   git clone https://github.com/insionCEO/voice-ai-agent.git
    cd agentic-voice
    ```
 
